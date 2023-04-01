@@ -1,0 +1,179 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Charcoal Patrol Bubble Mask",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-charcoal-patrol-bubble-mask-12775750500435.jpg%3Fv%3D1644399394&w=256&q=75",
+      "ogPrice":149,
+      "mrp":112,
+      "discount":25,
+      "display":"block"
+    },
+    {
+      "id": 2,
+      "title": "Charcoal Patrol Bubble Mask (Pack of 6)",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-charcoal-patrol-bubble-mask-pack-of-6-12784621125715.jpg%3Fv%3D1619114540&w=256&q=75",
+      "ogPrice":849,
+      "mrp":699,
+      "discount":22,
+      "display1":"none"
+    },
+    {
+      "id": 3,
+      "title": "Power Clay Mask Stick",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_3cb613fc-43c8-4763-b3e6-5ccf4761c0d5.jpg%3Fv%3D1641570994&w=256&q=75",
+      "ogPrice":699,
+      "mrp":595,
+      "discount":15,
+      "display1":"none"
+    },
+    {
+      "id": 4,
+      "title": "Bling Leader Illuminating Sunscreen SPF#% PA+++",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_61109b87-1ae6-4cb4-8550-5b57d688a4eb.jpg%3Fv%3D1651852771&w=256&q=75",
+      "ogPrice":599,
+      "mrp":510,
+      "discount":15,
+      "display1":"block"
+    },
+    {
+      "id": 5,
+      "title": "Citrus Got Real SPF30 Sunscreen",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-spf30-sunscreen-28038344736851.jpg%3Fv%3D1619155723&w=256&q=75",
+      "ogPrice":399,
+      "mrp":340,
+      "discount":15,
+      "display1":"none"
+    },
+    {
+      "id": 6,
+      "title": "Aquaholic Priming Moisturizer",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fmoisturiser.jpg%3Fv%3D1626968292&w=256&q=75",
+      "ogPrice":499,
+      "mrp":425,
+      "discount":15,
+      "display1":"none"
+    },
+    {
+      "id": 7,
+      "title": "Aquaholic Pore Exfoliating Scrub",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fmoisturiser.jpg%3Fv%3D1626968292&w=256&q=75",
+      "ogPrice":399,
+      "mrp":200,
+      "discount":50,
+      "display1":"none"
+    },
+    {
+      "id": 8,
+      "title": "Coffee Culture Lip Scrub",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCLipScrubWBG-3.jpg%3Fv%3D1628610315&w=256&q=75",
+      "ogPrice":299,
+      "mrp":255,
+      "discount":15,
+      "display1":"none"
+    },
+    {
+      "id": 9,
+      "title": "Citrus Got Real Cooling Stick",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-cooling-stick-28037939429459.jpg%3Fv%3D1644409181&w=256&q=75",
+      "ogPrice":399,
+      "mrp":200,
+      "discount":50,
+      "display1":"none"
+    },
+    {
+      "id": 10,
+      "title": "Cheat Sheet Anti-Aging Mask",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-cheat-sheet-anti-aging-mask-12775753744467.jpg%3Fv%3D1619113715&w=256&q=75",
+      "ogPrice":"",
+      "mrp":99,
+      "discount":"",
+      "display1":"none"
+    },
+    {
+      "id": 11,
+      "title": "Bling Leader Illuminating Sunscreen SPF35 PA+++ - 02 Pink Trippin 50g",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_e5df3bb8-4439-4980-ada2-aa90b126ada3.jpg%3Fv%3D1651852746&w=256&q=75",
+      "ogPrice":599,
+      "mrp":510,
+      "discount":15,
+      "display1":"block"
+    },
+    {
+      "id": 12,
+      "title": "Bling Leader Illuminating Sunscreen SPF35 PA+++ - 01 Gold Diggin 50g",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F1_547e9188-e44c-4cf7-a32e-fc0f410e8062.jpg%3Fv%3D1651852720&w=256&q=75",
+      "ogPrice":599,
+      "mrp":510,
+      "discount":15,
+      "display1":"block"
+    },
+    {
+      "id": 13,
+      "title": "Citrus Got Real Daily Moisturizer",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2Fsugar-cosmetics-citrus-got-real-daily-moisturizer-28038347292755.jpg%3Fv%3D1619155748&w=256&q=75",
+      "ogPrice":"",
+      "mrp":499,
+      "discount":"",
+      "display1":"none"
+    },
+    {
+      "id": 14,
+      "title": "Aquaholic Hyaluronic Serum",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FHyaluronic-Serum-3_1.jpg%3Fv%3D1626423730&w=256&q=75",
+      "ogPrice":499,
+      "mrp":425,
+      "discount":15,
+      "display1":"none"
+    },
+    {
+      "id": 15,
+      "title": "Coffee Culture Brightening Scrub",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCBrighteningSerumWBG-3.jpg%3Fv%3D1628610327&w=256&q=75",
+      "ogPrice":499,
+      "mrp":425,
+      "discount":15,
+      "display1":"none"
+    },
+    {
+      "id": 16,
+      "title": "Coffee Culture Eye Firming Cream",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCEyeFirmingCreamWBG-3.jpg%3Fv%3D1628610287&w=256&q=75",
+      "ogPrice":399,
+      "mrp":340,
+      "discount":15,
+      "display1":"none"
+    },
+    {
+      "id": 17,
+      "title": "Citrus Got Real Brightening Peel",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2F373515742-01.jpg%3Fv%3D1646235720&w=256&q=75",
+      "ogPrice":599,
+      "mrp":510,
+      "discount":15,
+      "display1":"block"
+    },
+    {
+      "id": 18,
+      "title": "Coffee Culture Pore Purifying Mask",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCCPorePurifyingMaskWBG-3.jpg%3Fv%3D1628610298&w=256&q=75",
+      "ogPrice":499,
+      "mrp":425,
+      "discount":15,
+      "display1":"none"
+    },
+    {
+      "id": 19,
+      "title": "Coffee Culture Cleansing Balm Stick",
+      "image":"https://in.sugarcosmetics.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0906%2F2558%2Fproducts%2FCoffee-culture-cleansing-balm-stick-01.jpg%3Fv%3D1643375708&w=256&q=75",
+      "ogPrice":699,
+      "mrp":595,
+      "discount":15,
+      "display1":"none"
+    }
+    
+    
+  ]
+}
+    
+    
